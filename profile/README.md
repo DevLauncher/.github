@@ -1,4 +1,4 @@
-# DevLaunch  
+# DevLauncher  
 **Empowering developers. Fostering innovation. Creating impact.**
 
 Welcome to **DevLaunch**, a vibrant community dedicated to:
