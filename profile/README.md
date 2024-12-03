@@ -1,7 +1,7 @@
 # DevLauncher  
 **Empowering developers. Fostering innovation. Creating impact.**
 
-Welcome to **DevLaunch**, a vibrant community dedicated to:
+Welcome to **DevLauncher**, a vibrant community dedicated to:
 
 🌟 **Empowering developers** through mentorship and guidance.  
 🛠️ **Implementing high-quality practices** for ready-to-use project structures.  
@@ -55,16 +55,16 @@ This funding will empower us to:
 
 ---
 
-## 🚀 About DevLaunch  
+## 🚀 About DevLauncher  
 
-DevLaunch is more than just an organization—it's a **community** where developers can:
+DevLauncher is more than just an organization—it's a **community** where developers can:
 
 - Transform ideas into impactful projects.  
 - Collaborate to access shared resources.  
 - Foster innovation and inspire change.  
 
 ### Our Unique Approach:  
-While our projects are initiated and maintained under personal repositories, they are made fully accessible and collaborative for the community through the DevLaunch organization. This ensures:  
+While our projects are initiated and maintained under personal repositories, they are made fully accessible and collaborative for the community through the DevLauncher organization. This ensures:  
 
 1. **Long-Term Availability**: By hosting projects under personal accounts, we ensure they remain accessible even if the organization structure changes.  
 2. **Collaborative Opportunities**: Projects are mirrored and managed collaboratively, enabling contributions from developers worldwide.  
@@ -91,5 +91,5 @@ This model empowers developers and keeps our resources flexible and resilient.
 
 ---
 
-## Thank You for Supporting DevLaunch  
+## Thank You for Supporting DevLauncher  
 Let’s create the future of technology, one project at a time!  
